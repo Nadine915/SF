@@ -64,7 +64,8 @@ git commit -m "новый файл"
 git status
 удаляем файл file-feature-1.txt
 git rm file-feature-1.txt фиксируем удаление файла
-
+mv file-feature-3.txt file-main-feature.txt переименовываем файл 
+git add file-main-feature.txt
 
 
 

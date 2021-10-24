@@ -66,6 +66,12 @@ git status
 git rm file-feature-1.txt фиксируем удаление файла
 mv file-feature-3.txt file-main-feature.txt переименовываем файл 
 git add file-main-feature.txt
+git commit -m "Bug fixed"
+git status
+git commit -m "initial commit"
+git pull
+git status
+git push
 
 
 
